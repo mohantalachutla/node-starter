@@ -6,4 +6,6 @@ module.exports = {
     // open: true,
     port: 9000,
   },
+  devtool: 'eval-cheap-source-map',
+  stats: 'errors-warnings',
 }
