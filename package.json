@@ -1,0 +1,13 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "Node js starter project with webpack, typescript, linting",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mohantalachutla",
+  "license": "ISC",
+  "homepage": "."
+}
