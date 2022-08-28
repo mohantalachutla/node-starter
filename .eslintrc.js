@@ -13,6 +13,8 @@ module.exports = {
     },
     extends: [
         "eslint:recommended",
+        "prettier",
+        "plugin:prettier:recommended"
     ],
     rules: {
         // 'no-unused-vars': 'error',  // no need ass it is part of eslint-precommended
