@@ -1,9 +1,9 @@
 module.exports = {
-    mode: "development",
-    devServer: {
-        static: false,
-        hot: true,
-        // open: true,
-        port: 9000
-    }
+  mode: 'development',
+  devServer: {
+    static: false,
+    hot: true,
+    // open: true,
+    port: 9000,
+  },
 }
