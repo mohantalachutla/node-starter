@@ -12,7 +12,7 @@ module.exports = {
     sourceType: 'module',
     allowImportExportEverywhere: false,
   },
-  extends: ['eslint:recommended', 'prettier', 'plugin:prettier/recommended'],
+  extends: ['eslint:recommended', 'plugin:prettier/recommended', 'plugin:import/errors', 'plugin:import/warnings'],
   rules: {
     // 'no-unused-vars': 'error',  // no need ass it is part of eslint-precommended
   },
