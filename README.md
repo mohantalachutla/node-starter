@@ -1,2 +1,2 @@
-# node-starter
-Node js starter project with webpack, typescript, linting
+# Node Starter Template
+###### Node js starter project configured with webpack, eslint, jest, prettier
